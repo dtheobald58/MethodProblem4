@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodProblem4\MethodProblem4\bin\Debug\MethodProblem4.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodProblem4\MethodProblem4\bin\Debug\MethodProblem4.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodProblem4\MethodProblem4\bin\Debug\MethodProblem4.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodProblem4\MethodProblem4\obj\Debug\MethodProblem4.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodProblem4\MethodProblem4\obj\Debug\MethodProblem4.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\MethodProblem4\MethodProblem4\obj\Debug\MethodProblem4.pdb
